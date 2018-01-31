@@ -1,0 +1,10 @@
+/home/lorax/Azure/openhack/FilterModule/bin/Debug/netcoreapp2.0/FilterModule.deps.json
+/home/lorax/Azure/openhack/FilterModule/bin/Debug/netcoreapp2.0/FilterModule.runtimeconfig.json
+/home/lorax/Azure/openhack/FilterModule/bin/Debug/netcoreapp2.0/FilterModule.runtimeconfig.dev.json
+/home/lorax/Azure/openhack/FilterModule/bin/Debug/netcoreapp2.0/FilterModule.dll
+/home/lorax/Azure/openhack/FilterModule/bin/Debug/netcoreapp2.0/FilterModule.pdb
+/home/lorax/Azure/openhack/FilterModule/obj/Debug/netcoreapp2.0/FilterModule.csproj.CoreCompileInputs.cache
+/home/lorax/Azure/openhack/FilterModule/obj/Debug/netcoreapp2.0/FilterModule.AssemblyInfoInputs.cache
+/home/lorax/Azure/openhack/FilterModule/obj/Debug/netcoreapp2.0/FilterModule.AssemblyInfo.cs
+/home/lorax/Azure/openhack/FilterModule/obj/Debug/netcoreapp2.0/FilterModule.dll
+/home/lorax/Azure/openhack/FilterModule/obj/Debug/netcoreapp2.0/FilterModule.pdb
